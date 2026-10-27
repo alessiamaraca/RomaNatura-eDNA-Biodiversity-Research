@@ -77,3 +77,7 @@ This research contributes to the understanding of aquatic insect biodiversity in
 This Master's thesis was developed within the ROMAeDNA project, in collaboration with Roma Tre University and the RomaNatura Regional Authority, as part of the National Biodiversity Future Center (NBFC) research framework.
 
 **Data and materials availability:** Research outputs and underlying datasets will be shared only where permission has been granted by the relevant project partners.
+
+## Research Documentation
+
+For an overview of the experimental workflow, see the [Research Methodology](METODOLOGIA.md).
