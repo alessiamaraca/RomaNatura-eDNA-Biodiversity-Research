@@ -80,4 +80,5 @@ This Master's thesis was developed within the ROMAeDNA project, in collaboration
 
 ## Research Documentation
 
-For an overview of the experimental workflow, see the [Research Methodology](METODOLOGIA.md).
+- [Research Methodology](METODOLOGIA.md) — Overview of field sampling, eDNA extraction and molecular laboratory procedures.
+- [Research Results](RESULTS.md) — Summary of the main biodiversity findings and ecological interpretation.
