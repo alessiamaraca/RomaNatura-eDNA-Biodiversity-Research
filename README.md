@@ -30,6 +30,27 @@ I personally carried out the experimental activities associated with my Master's
 
 Statistical analysis outputs were provided within the research project and were used to support the ecological interpretation and discussion of the findings.
 
+## Experimental Skills and Techniques
+
+During my Master's thesis, I gained hands-on experience in molecular ecology and freshwater biodiversity monitoring.
+
+**Fieldwork and Environmental Sampling**
+- Freshwater sampling across urban and peri-urban protected areas.
+- Environmental characterisation of aquatic habitats.
+- Water filtration and collection of environmental DNA samples.
+- Sample handling and preservation.
+
+**Molecular Biology Laboratory Techniques**
+- Environmental DNA (eDNA) extraction from water filters.
+- PCR amplification using mitochondrial genetic markers.
+- Sample preparation and laboratory procedures aimed at minimising contamination.
+
+**Ecological Research and Scientific Communication**
+- Interpretation of eDNA metabarcoding results.
+- Assessment of aquatic insect biodiversity and habitat-related patterns.
+- Interpretation of statistical outputs in an ecological context.
+- Scientific literature review and academic writing.
+  
 ## Methodology
 
 The study involved 34 freshwater sampling sites distributed across 11 protected areas within the RomaNatura system.
