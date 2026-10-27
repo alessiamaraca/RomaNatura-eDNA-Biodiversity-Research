@@ -1,5 +1,11 @@
 # Aquatic Insect Biodiversity Monitoring Using Environmental DNA (eDNA)
 
+**Research areas:** Molecular Ecology · Environmental DNA (eDNA) · Freshwater Biodiversity · Aquatic Entomology · Conservation Biology
+
+**Techniques:** Field Sampling · Water Filtration · DNA Extraction · PCR · eDNA Metabarcoding · Ecological Data Interpretation
+
+**Study area:** RomaNatura Protected Areas, Rome, Italy
+
 ### Master's Thesis Research | RomaNatura Protected Areas, Rome, Italy
 
 ## Research Overview
