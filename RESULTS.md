@@ -36,6 +36,32 @@ The findings highlight the importance of considering local freshwater habitat ch
 
 They also support the potential value of environmental DNA metabarcoding as a tool for biodiversity monitoring and ecological research.
 
+## Research Figures
+
+### Figure 1 — Taxonomic richness across freshwater habitats
+
+![Taxonomic richness across habitats](figures/fig_01_richness_total_environment.png)
+
+Comparison of aquatic insect taxonomic richness across the freshwater habitat types investigated in the RomaNatura protected area system.
+
+### Figure 2 — Richness of selected aquatic insect groups
+
+![Richness by insect group](figures/fig_02_richness_groups_fosso_stagno.png)
+
+Comparison of taxonomic richness between ditches and ponds for selected aquatic insect groups, including EPT taxa, Odonata and Hemiptera.
+
+### Figure 3 — Aquatic insect community composition
+
+![PCoA of aquatic insect communities](figures/fig_04_pcoa_jaccard_environment.png)
+
+Principal Coordinates Analysis (PCoA) based on Jaccard dissimilarity, illustrating patterns of variation in aquatic insect community composition across freshwater habitats.
+
+### Figure 4 — Richness and distance from central Rome
+
+![Richness and distance](figures/fig_03_richness_vs_distance.png)
+
+Relationship between aquatic insect taxonomic richness and straight-line distance from Piazza Venezia, used as a spatial proxy for urbanisation. No statistically significant association was identified in the study.
+
 ## Interpretation and Attribution
 
 Statistical analyses and graphical outputs were produced within the ROMAeDNA research collaboration.
